@@ -1,2 +1,2 @@
-# TratamentoDeErro_JS
-Aula de Linguagem de Programação sobre tratamento de erro (Try, catch)
+# DOM JS
+Repositório criado para a aula de Linguagem de Programação sobre JS DOM. 
